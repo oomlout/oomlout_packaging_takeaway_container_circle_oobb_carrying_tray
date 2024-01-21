@@ -22,3 +22,13 @@
 * thickness:   
 * material:   
  
+
+### oolc_3_a4_tcc120hl
+* link: [/oolc_3_a4_tcc120hl](oolc_3_a4_tcc120hl)  
+![](oolc_3_a4_tcc120hl/working_300.png)  
+![](oolc_3_a4_tcc120hl/image_300.jpg)  
+* width:   
+* height:   
+* thickness:   
+* material:   
+ 
