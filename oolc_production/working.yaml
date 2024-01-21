@@ -4,3 +4,7 @@ project_repo: https://github.com/oomlout/oomlout_packaging_takeaway_container_ci
 production_format:
   oolc_1_a4_tcc30hl:
     file_location: source_files/oolc_1.cdr
+  oolc_2_a4_tcc60hl:
+    file_location: source_files/oolc_2.cdr
+  
+  
