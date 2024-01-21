@@ -6,5 +6,7 @@ production_format:
     file_location: source_files/oolc_1.cdr
   oolc_2_a4_tcc60hl:
     file_location: source_files/oolc_2.cdr
+  oolc_3_a4_tcc120hl:
+    file_location: source_files/oolc_3.cdr
   
   
