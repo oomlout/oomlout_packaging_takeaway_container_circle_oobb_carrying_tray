@@ -32,3 +32,13 @@
 * thickness:   
 * material:   
  
+
+### oolc_3_a4_tcc150
+* link: [/oolc_3_a4_tcc150](oolc_3_a4_tcc150)  
+![](oolc_3_a4_tcc150/working_300.png)  
+![](oolc_3_a4_tcc150/image_300.jpg)  
+* width:   
+* height:   
+* thickness:   
+* material:   
+ 
